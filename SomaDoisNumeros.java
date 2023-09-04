@@ -13,11 +13,9 @@ public class SomaDoisNumero{
         po1 = leitor.nextDouble();
 
         System.out.printLn("Digite o segundo operando");
-        po2 = leitor.nextDouble();
-
-        
+        po2 = leitor.nextDouble();        
         //Processamento
-
+        
         //Saida
     }
 }
