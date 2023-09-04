@@ -9,7 +9,13 @@ public class SomaDoisNumero{
         double resultado;
 
         //Entrada
+        System.out.printLn("Digite o primeiro properando");
+        po1 = leitor.nextDouble();
 
+        System.out.printLn("Digite o segundo operando");
+        po2 = leitor.nextDouble();
+
+        
         //Processamento
 
         //Saida
