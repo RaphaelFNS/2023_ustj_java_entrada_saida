@@ -15,7 +15,7 @@ public class SomaDoisNumero{
         System.out.printLn("Digite o segundo operando");
         po2 = leitor.nextDouble();        
         //Processamento
-        
+        resultado = po1 + po2;
         //Saida
     }
 }
