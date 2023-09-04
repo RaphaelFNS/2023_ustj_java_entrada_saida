@@ -16,6 +16,7 @@ public class SomaDoisNumeros {
         po2 = leitor.nextDouble();        
         //Processamento
         resultado = po1 + po2;
+        
         //Saida
         System.out.print(resultado);
     }
